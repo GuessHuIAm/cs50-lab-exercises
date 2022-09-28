@@ -13,7 +13,7 @@ Command: ```wget https://cdn.cs50.net/2022/fall/labs/4/bottomup.zip```
 ```unzip bottumup.zip```
 ```rm bottumup.zip```
 
-##### Average Temperatures 
+##### License 
 Command: ```wget https://cdn.cs50.net/2022/fall/labs/4/license.zip``` 
 ```unzip license.zip```
 ```rm license.zip```
