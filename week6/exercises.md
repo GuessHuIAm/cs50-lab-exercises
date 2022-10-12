@@ -13,7 +13,7 @@ Command: ```wget https://cdn.cs50.net/2022/fall/labs/6/figlet.zip```
 ```unzip figlet.zip```
 ```rm figlet.zip```
 
-##### Bank 
+##### Home Federal Savings Bank 
 Command: ```wget https://cdn.cs50.net/2022/fall/labs/6/bank.zip``` 
 ```unzip bank.zip```
 ```rm bank.zip```
